@@ -1321,7 +1321,7 @@
 				INFOPLIST_FILE = billiards/Resources/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				OTHER_LDFLAGS = "-lz";
-				PRODUCT_BUNDLE_IDENTIFIER = com.twokingstudio.billiardboard.100;
+				PRODUCT_BUNDLE_IDENTIFIER = com.twokingstudio.billiarboard.100;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				USER_HEADER_SEARCH_PATHS = "\"billiards/libs\"";
 				WRAPPER_EXTENSION = app;
@@ -1340,7 +1340,7 @@
 				INFOPLIST_FILE = billiards/Resources/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				OTHER_LDFLAGS = "-lz";
-				PRODUCT_BUNDLE_IDENTIFIER = com.twokingstudio.billiardboard.100;
+				PRODUCT_BUNDLE_IDENTIFIER = com.twokingstudio.billiarboard.100;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				USER_HEADER_SEARCH_PATHS = "\"billiards/libs\"";
 				VALIDATE_PRODUCT = YES;
