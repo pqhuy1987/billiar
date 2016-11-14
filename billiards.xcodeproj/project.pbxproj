@@ -1312,6 +1312,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = YES;
+				ARCHS = "$(ARCHS_STANDARD)";
 				COPY_PHASE_STRIP = NO;
 				DEVELOPMENT_TEAM = JQNK74493B;
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -1332,6 +1333,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = YES;
+				ARCHS = "$(ARCHS_STANDARD)";
 				COPY_PHASE_STRIP = YES;
 				DEVELOPMENT_TEAM = JQNK74493B;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
