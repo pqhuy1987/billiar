@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "8E417F151CCE6C8500BFF3CF"
-               BuildableName = "Billiard_Blast.app"
-               BlueprintName = "Billiard_Blast"
-               ReferencedContainer = "container:Billiard_Blast.xcodeproj">
+               BuildableName = "BilliardBlast.app"
+               BlueprintName = "BilliardBlast"
+               ReferencedContainer = "container:BilliardBlast.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8E417F151CCE6C8500BFF3CF"
-            BuildableName = "Billiard_Blast.app"
-            BlueprintName = "Billiard_Blast"
-            ReferencedContainer = "container:Billiard_Blast.xcodeproj">
+            BuildableName = "BilliardBlast.app"
+            BlueprintName = "BilliardBlast"
+            ReferencedContainer = "container:BilliardBlast.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8E417F151CCE6C8500BFF3CF"
-            BuildableName = "Billiard_Blast.app"
-            BlueprintName = "Billiard_Blast"
-            ReferencedContainer = "container:Billiard_Blast.xcodeproj">
+            BuildableName = "BilliardBlast.app"
+            BlueprintName = "BilliardBlast"
+            ReferencedContainer = "container:BilliardBlast.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8E417F151CCE6C8500BFF3CF"
-            BuildableName = "Billiard_Blast.app"
-            BlueprintName = "Billiard_Blast"
-            ReferencedContainer = "container:Billiard_Blast.xcodeproj">
+            BuildableName = "BilliardBlast.app"
+            BlueprintName = "BilliardBlast"
+            ReferencedContainer = "container:BilliardBlast.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

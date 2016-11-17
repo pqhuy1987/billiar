@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Billiard_Blast.xcodeproj">
+      location = "self:/Users/mac/WORK/billiar/BilliardBlast(Candyrush)/BilliardBlast.xcodeproj">
    </FileRef>
 </Workspace>

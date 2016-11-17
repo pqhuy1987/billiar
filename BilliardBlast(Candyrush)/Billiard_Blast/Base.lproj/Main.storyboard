@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="10116" systemVersion="15E65" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="LWZ-fm-zhv">
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="10117" systemVersion="16B2555" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="LWZ-fm-zhv">
     <dependencies>
         <deployment identifier="iOS"/>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
@@ -38,7 +38,7 @@
         <!--Play-->
         <scene sceneID="C2Q-lX-VYh">
             <objects>
-                <viewController id="9Lg-nn-u1M" customClass="GameViewController" customModule="Billiard_Blast" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="9Lg-nn-u1M" customClass="GameViewController" customModule="BilliardBlast" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="Svs-K7-UMg"/>
                         <viewControllerLayoutGuide type="bottom" id="YoT-W6-Xz1"/>
@@ -241,7 +241,7 @@
         <!--SettingsVC-->
         <scene sceneID="8aI-xX-Z1n">
             <objects>
-                <viewController id="uBV-E8-ZAZ" customClass="SettingsVC" customModule="Billiard_Blast" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="uBV-E8-ZAZ" customClass="SettingsVC" customModule="BilliardBlast" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="TWm-0d-f6e"/>
                         <viewControllerLayoutGuide type="bottom" id="Xfw-l5-KMg"/>
@@ -361,7 +361,7 @@
         <!--Title Screen View Controller-->
         <scene sceneID="zNM-I5-ufg">
             <objects>
-                <viewController id="LWZ-fm-zhv" customClass="titleScreenViewController" customModule="Billiard_Blast" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="LWZ-fm-zhv" customClass="titleScreenViewController" customModule="BilliardBlast" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="Yxj-zb-cLL"/>
                         <viewControllerLayoutGuide type="bottom" id="v30-qW-lWV"/>
@@ -425,7 +425,7 @@
                                     <constraint firstAttribute="width" constant="288" id="s9Q-6y-97V"/>
                                 </constraints>
                             </imageView>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="  2.0 Copyright (c) 2016 Michael Hardin. All rights reserved." lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Il1-gw-bwT">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text=" 1.0 Copyright (c) 2016 TwokingStudio. All rights reserved." lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Il1-gw-bwT">
                                 <rect key="frame" x="16" y="527" width="288" height="21"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="21" id="clu-m1-LoB"/>
@@ -464,7 +464,7 @@
         <!--HTPVC-->
         <scene sceneID="rpl-2e-NQl">
             <objects>
-                <viewController id="ZZ8-dg-mDk" customClass="HTPVC" customModule="Billiard_Blast" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="ZZ8-dg-mDk" customClass="HTPVC" customModule="BilliardBlast" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="Q2e-xK-T5d"/>
                         <viewControllerLayoutGuide type="bottom" id="gac-nw-SdD"/>
@@ -578,7 +578,7 @@
         <!--CreditsVC-->
         <scene sceneID="Dkf-Wt-cxu">
             <objects>
-                <viewController id="zcb-5m-p5q" customClass="CreditsVC" customModule="Billiard_Blast" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="zcb-5m-p5q" customClass="CreditsVC" customModule="BilliardBlast" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="4Ly-z6-cDR"/>
                         <viewControllerLayoutGuide type="bottom" id="gtR-V0-t0G"/>
@@ -737,10 +737,10 @@
                         </constraints>
                         <variation key="default">
                             <mask key="constraints">
-                                <exclude reference="zCf-N3-FqE"/>
-                                <exclude reference="uvu-DV-0DG"/>
-                                <exclude reference="fus-kS-QVH"/>
                                 <exclude reference="4xg-xT-4uv"/>
+                                <exclude reference="fus-kS-QVH"/>
+                                <exclude reference="uvu-DV-0DG"/>
+                                <exclude reference="zCf-N3-FqE"/>
                                 <exclude reference="JvI-a4-xDv"/>
                             </mask>
                         </variation>
