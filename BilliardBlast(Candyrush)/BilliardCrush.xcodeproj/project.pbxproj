@@ -171,7 +171,7 @@
 /* Begin PBXFileReference section */
 		8E31F5021CCECF3300384444 /* MainMenuVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainMenuVC.swift; sourceTree = "<group>"; };
 		8E31F5041CCECF4700384444 /* SettingsVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsVC.swift; sourceTree = "<group>"; };
-		8E417F161CCE6C8500BFF3CF /* BilliardBlast.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BilliardBlast.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8E417F161CCE6C8500BFF3CF /* BilliardCrush.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BilliardCrush.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8E417F191CCE6C8500BFF3CF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8E417F1D1CCE6C8500BFF3CF /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
 		8E417F1F1CCE6C8500BFF3CF /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
@@ -356,7 +356,7 @@
 		8E417F171CCE6C8500BFF3CF /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				8E417F161CCE6C8500BFF3CF /* BilliardBlast.app */,
+				8E417F161CCE6C8500BFF3CF /* BilliardCrush.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -581,9 +581,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		8E417F151CCE6C8500BFF3CF /* BilliardBlast */ = {
+		8E417F151CCE6C8500BFF3CF /* BilliardCrush */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8E417F2C1CCE6C8500BFF3CF /* Build configuration list for PBXNativeTarget "BilliardBlast" */;
+			buildConfigurationList = 8E417F2C1CCE6C8500BFF3CF /* Build configuration list for PBXNativeTarget "BilliardCrush" */;
 			buildPhases = (
 				8E417F121CCE6C8500BFF3CF /* Sources */,
 				8E417F131CCE6C8500BFF3CF /* Frameworks */,
@@ -593,9 +593,9 @@
 			);
 			dependencies = (
 			);
-			name = BilliardBlast;
+			name = BilliardCrush;
 			productName = Billiard_Blast;
-			productReference = 8E417F161CCE6C8500BFF3CF /* BilliardBlast.app */;
+			productReference = 8E417F161CCE6C8500BFF3CF /* BilliardCrush.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -614,7 +614,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 8E417F111CCE6C8500BFF3CF /* Build configuration list for PBXProject "BilliardBlast" */;
+			buildConfigurationList = 8E417F111CCE6C8500BFF3CF /* Build configuration list for PBXProject "BilliardCrush" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -627,7 +627,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				8E417F151CCE6C8500BFF3CF /* BilliardBlast */,
+				8E417F151CCE6C8500BFF3CF /* BilliardCrush */,
 			);
 		};
 /* End PBXProject section */
@@ -918,7 +918,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.twokingstudio.billiarboard.100;
-				PRODUCT_NAME = BilliardBlast;
+				PRODUCT_NAME = BilliardCrush;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
@@ -933,7 +933,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.twokingstudio.billiarboard.100;
-				PRODUCT_NAME = BilliardBlast;
+				PRODUCT_NAME = BilliardCrush;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
@@ -941,7 +941,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		8E417F111CCE6C8500BFF3CF /* Build configuration list for PBXProject "BilliardBlast" */ = {
+		8E417F111CCE6C8500BFF3CF /* Build configuration list for PBXProject "BilliardCrush" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8E417F2A1CCE6C8500BFF3CF /* Debug */,
@@ -950,7 +950,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8E417F2C1CCE6C8500BFF3CF /* Build configuration list for PBXNativeTarget "BilliardBlast" */ = {
+		8E417F2C1CCE6C8500BFF3CF /* Build configuration list for PBXNativeTarget "BilliardCrush" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8E417F2D1CCE6C8500BFF3CF /* Debug */,
